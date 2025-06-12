@@ -1,0 +1,24 @@
+node_modules
+.DS_Store
+dist
+*.local
+.vite-inspect
+.remote-assets
+components.d.ts
+
+# Ignore cache folder - essential!
+/.yarn/cache
+
+# Ignore unplugged folder
+/.yarn/unplugged
+
+# Ignore temporary build/install state files
+/.yarn/build-state.yml
+.yarn/install-state.gz
+
+# If using node-modules linker (common), ignore node_modules itself
+/node_modules
+
+# Ignore Yarn Classic logs if they ever appear
+yarn-error.log
+.pnp.*
