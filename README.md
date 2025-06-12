@@ -12,7 +12,7 @@ Edit the [slides.md](./slides.md) to see the changes.
 
 ## Deploy
 
-This repo is hosted at https://github.com/chancefcc/vccdeck, and auto deployed to Cloudflare Pages by running,
+This repo is hosted at https://github.com/teb-network/deck, and auto deployed to Cloudflare Pages by running,
 
 ```
 git push origin main
