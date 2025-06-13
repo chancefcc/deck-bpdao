@@ -70,14 +70,16 @@ html:not(.dark) body {
     color: var(--light-text-color); /* Default text color for light mode */
 }
 
-/* Ensure slide layouts also get the light background */
+/* Ensure slide layouts also get the light background and no image in light mode */
 html:not(.dark) .slidev-layout {
-    background-color: var(--light-slide-background);
+    background-image: none !important;
+    background-color: var(--light-slide-background) !important;
 }
 
-/* Cover page specific background for light mode */
+/* Cover page specific background and no image for light mode */
 html:not(.dark) .slidev-layout.cover {
-    background-color: var(--light-slide-background);
+    background-image: none !important;
+    background-color: var(--light-slide-background) !important;
 }
 
 /* Adjust containers that were dark (bg-gray-800) for light mode */
@@ -106,3 +108,8 @@ html:not(.dark) .slidev-layout h6 {
 /* However, based on the provided slides.md, this seems not to be the case for now. */
 
 /* Add any other custom CSS overrides below */
+
+/* Ensure 'Private Round I Fundraising Deck' on cover slide is dark in light mode */
+html:not(.dark) .slidev-layout.cover p strong {
+    color: var(--light-text-color) !important;
+}

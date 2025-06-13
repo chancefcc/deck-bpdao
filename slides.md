@@ -8,7 +8,7 @@ info: |
   This presentation outlines the investment opportunity for teb.network's first private fundraising round.
 drawings:
   persist: false
-# colorSchema: 'dark'
+colorSchema: 'light'
 transition: slide-left
 mdc: true
 # for cover slide
@@ -20,8 +20,7 @@ class: 'text-center'
 # **teb.network**
 ### A Decentralized Data Oracle for Real-World Asset Verification and Finance
 
-**Private Round I Fundraising Deck**
-June 2025
+**Private Round Fundraising Deck, June 2025**
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Press Space for next page <carbon:arrow-right />
