@@ -9,11 +9,12 @@
   },
   "dependencies": {
     "@slidev/cli": "^51.6.0",
-    "@slidev/theme-bricks": "^0.25.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "light-icons": "^1.0.12",
     "slidev-theme-eloc": "^1.1.0",
+    "slidev-theme-light-icons": "^1.0.2",
+    "unocss": "^66.3.3",
     "vue": "^3.5.13"
   },
   "packageManager": "yarn@3.6.3",

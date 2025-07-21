@@ -3,17 +3,17 @@
 
 /* --- Global Variables --- */
 :root {
-    --primary-color: #2f805e;
-    --light-slide-background: #f8f9fa; /* Very light grey for slide backgrounds in light mode */
-    --light-container-background: #e9ecef; /* Lighter grey for containers in light mode */
-    --light-text-color: #212529; /* Dark text for light mode */
+  --primary-color: #2f805e;
+  --light-slide-background: #f5f5dc; /* Very light grey for slide backgrounds in light mode */
+  --light-container-background: #e9ecef; /* Lighter grey for containers in light mode */
+  --light-text-color: #212529; /* Dark text for light mode */
 }
 
 /* --- Font Application --- */
 /* Apply 'Space Grotesk' first for English, then 'Noto Serif SC' for Chinese characters in the main body text */
 body,
 .slidev-layout {
-    font-family: "Space Grotesk", "Noto Serif SC", sans-serif;
+  font-family: "Exo 2", "Noto Serif SC", sans-serif;
 }
 
 /* --- Apply 'Exo 2' first for English, then 'Noto Serif SC' for Chinese characters in headings --- */
@@ -23,74 +23,76 @@ body,
 .slidev-layout h4,
 .slidev-layout h5,
 .slidev-layout h6 {
-    font-family: "Exo 2", "Noto Serif SC", sans-serif;
-    font-weight: 700;
-    color: var(--primary-color);
+  font-family: "Space Grotesk", "Noto Serif SC", sans-serif;
+  font-weight: 700;
+  color: var(--primary-color);
 }
 
 /* Adjust line height for ordered and unordered lists */
 .slidev-layout ul,
 .slidev-layout ol {
-    line-height: 1.4;
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-    padding-left: 1.5rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
 }
 
 .slidev-layout ul li,
 .slidev-layout ol li {
-    line-height: 1.2;
-    margin-bottom: 0.5rem;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
 }
 
 .slidev-layout ul ul,
 .slidev-layout ol ol {
-    line-height: 1;
-    margin-top: 0.25rem;
-    margin-bottom: 0.25rem;
-    padding-left: 1.25rem;
+  line-height: 1;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1.25rem;
 }
 
 /* --- Fix for Paragraphs after H1 --- */
 .slidev-layout h1 + p {
-    font-family: "Exo 2", "Noto Serif SC", sans-serif !important;
-    font-weight: 400 !important;
+  font-family: "Exo 2", "Noto Serif SC", sans-serif !important;
+  font-weight: 400 !important;
 }
 
 /* Adjust the font for elements with mt-12 and py-1 classes */
 .mt-12.py-1 {
-    font-family: "Exo 2", "Noto Serif SC", sans-serif;
-    font-size: 1.2rem;
-    font-weight: 400;
+  font-family: "Exo 2", "Noto Serif SC", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
 }
 
 /* --- Light Mode Specific Styles --- */
 html:not(.dark) body {
-    background-color: var(--light-slide-background);
-    color: var(--light-text-color); /* Default text color for light mode */
+  background-color: var(--light-slide-background);
+  color: var(--light-text-color); /* Default text color for light mode */
 }
 
 /* Ensure slide layouts also get the light background and no image in light mode */
 html:not(.dark) .slidev-layout {
-    background-image: none !important;
-    background-color: var(--light-slide-background) !important;
+  background-image: none !important;
+  /* background-color: var(--light-slide-background) !important; */
+  background-color: transparent !important;
 }
 
 /* Cover page specific background and no image for light mode */
 html:not(.dark) .slidev-layout.cover {
-    background-image: none !important;
-    background-color: var(--light-slide-background) !important;
+  background-image: none !important;
 }
 
 /* Adjust containers that were dark (bg-gray-800) for light mode */
 html:not(.dark) .bg-gray-800 {
-    background-color: var(--light-container-background) !important; /* Use !important to override Tailwind utility */
-    color: var(--light-text-color) !important; /* Ensure text inside is dark */
+  background-color: var(
+    --light-container-background
+  ) !important; /* Use !important to override Tailwind utility */
+  color: var(--light-text-color) !important; /* Ensure text inside is dark */
 }
 
 /* Adjust text color for the 'Press Space for next page' link in light mode if needed */
 html:not(.dark) .mt-12.py-1 {
-    color: var(--light-text-color); /* Make sure this text is also dark */
+  color: var(--light-text-color); /* Make sure this text is also dark */
 }
 
 /* Ensure headings maintain their primary color in light mode, overriding general text color if necessary */
@@ -100,7 +102,7 @@ html:not(.dark) .slidev-layout h3,
 html:not(.dark) .slidev-layout h4,
 html:not(.dark) .slidev-layout h5,
 html:not(.dark) .slidev-layout h6 {
-    color: var(--primary-color);
+  color: var(--primary-color);
 }
 
 /* If there are any text elements within .bg-gray-800 that had explicit light colors, they might need specific overrides. */
@@ -111,5 +113,5 @@ html:not(.dark) .slidev-layout h6 {
 
 /* Ensure 'Private Round I Fundraising Deck' on cover slide is dark in light mode */
 html:not(.dark) .slidev-layout.cover p strong {
-    color: var(--light-text-color) !important;
+  color: var(--light-text-color) !important;
 }
