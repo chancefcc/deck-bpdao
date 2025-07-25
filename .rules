@@ -1,0 +1,15 @@
+<rule>
+  name: slidev_project_modifications
+  description: Allow AI to modify slides.md and style.css for sli.dev project.
+  filters:
+    - type: file_name
+      pattern: "slides.md"
+    - type: file_name
+      pattern: "style.css"
+  message: |
+    You are working within a sli.dev project.
+    You are authorized to directly modify the contents of 'slides.md' and 'style.css' files
+    to implement requested changes related to presentation content or styling.
+    When making changes, ensure they are consistent with the sli.dev markdown and CSS syntax.
+    Prioritize clarity and maintainability in your modifications.
+</rule>

@@ -12,28 +12,38 @@ colorSchema: 'light'
 transition: slide-left
 mdc: true
 # for cover slide
-layout: cover
-# Align the main text content to the center
-class: 'text-center'
+layout: image-right
+image: https://assets.breakpoints.live/joel-vodell-8Ogfqvw15Rg-unsplash-small.jpg
+# Align the main text content
+class: 'text-left'
 ---
 
-<br/>
-
-# **SoEasy Network**
-
+# SoEasy Network
 ## Empowering Global Resource Recycling Businesses <br/> with Verifiable Digital Ownership
 
-SoEasy HK | 易收国际, 07/19/2025
+SoEasy HK | 易收国际, 07/26/2025
 
 ---
 layout: default
+class: px-20
+hide: false
 ---
 
 # **The Unseen Challenge in Renewable Resources**
 
-- **The Problem:** The global renewable resources industry, including critical sectors like **battery and lead recycling**, is hampered by **operational opacity, fragmented data, and a fundamental lack of trust.**
+<div grid="~ cols-2 gap-2" m="t-2">
 
-- **The Barriers:** This creates significant **compliance hurdles** for operators, especially small and medium-sized enterprises (SMEs). It also **blocks their access to traditional financing** because they lack the verifiable operational data required by lenders.
+**The Problem:** The global renewable resources industry, including critical sectors like _battery and lead recycling_, is hampered by _operational opacity, fragmented data, and a fundamental lack of trust._
+
+**The Barriers:** This creates significant **compliance hurdles** for operators, especially small and medium-sized enterprises (SMEs). It also _blocks their access to traditional financing_ because they lack the verifiable operational data required by lenders.
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1681433401553-589104846604?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="batteries">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1683120927535-e10ce53531d6?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="shop">
+
+</div>
+
+Read more on [IEA (2024), Recycling of Critical Minerals, IEA, Paris](https://www.iea.org/reports/recycling-of-critical-minerals)
 
 <!--
 > "In the modern economy, our data is a core part of our identity and work. Yet, in the traditional recycling industry, operators have no true ownership over the valuable data they generate. Their digital records and transaction histories can be altered or erased by centralized platforms at any time, leaving them without control over their own digital footprint.
@@ -41,14 +51,24 @@ layout: default
 
 ---
 layout: default
+class: px-20
+hide: false
 ---
 
 # Data: The Untapped Asset
 ## of the Recycling Industry
 
-- **The Observation:** Data is the fuel for every major innovation today, from artificial intelligence to supply chain optimization.
+<div grid="~ cols-2 gap-2" m="t-2">
 
-- **The Injustice:** While recycling operators generate a constant stream of valuable data, its ownership and financial benefits are captured almost exclusively by siloed, centralized platforms. The creators of the value are not compensated for it.
+**The Observation:** Data is the fuel for every major innovation today, from artificial intelligence to supply chain optimization.
+
+**The Injustice:** While recycling operators generate a constant stream of valuable data, its ownership and financial benefits are captured almost exclusively by siloed, centralized platforms. The creators of the value are not compensated for it.
+
+<img border="rounded" src="https://assets.breakpoints.live/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="data flow">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1682126334986-d3e22f992df2?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="book keeping">
+
+</div>
 
 <!--
 Every recycling transaction, logistical movement, and processing event generates a wealth of operational and financial data. This information is a goldmine for optimizing supply chains, creating Real-World Asset (RWA) projects, ensuring tax compliance, and building new financial services. Yet, the very businesses generating this data are cut off from its immense value.
@@ -56,20 +76,32 @@ Every recycling transaction, logistical movement, and processing event generates
 
 ---
 layout: default
+class: px-20
+hide: false
 ---
 # Web3 & Blockchain:
 ## The Foundation for True Digital Ownership
 
-- **The Solution:** **SoEasy Network** tackles these industry challenges by building a **decentralized data oracle and marketplace infrastructure.**
+<div grid="~ cols-2 gap-2" m="t-2">
 
-- **The Transformation:** Our platform transforms raw, fragmented operational data into **verifiable, auditable, and immutable digital assets**, creating a single source of truth for the entire industry.
+**The Solution:** **SoEasy Network** tackles these industry challenges by building a _decentralized data oracle and marketplace infrastructure._
+
+**The Transformation:** Our platform transforms raw, fragmented operational data into _verifiable, auditable, and immutable digital assets_, creating a single source of truth for the entire industry.
+
+<img border="rounded" src="https://assets.breakpoints.live/photo-network.png" alt="data network">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1661667061015-20973efdac23?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cash flow">
+
+</div>
 
 <!--
 SoEasy Network is engineered to bring the digital ownership revolution to the renewable resources industry. We are building a global, decentralized data market that can serve recycling businesses worldwide. By connecting physical operations with decentralized finance (DeFi), we enable transparent and verifiable Real-World Asset (RWA) management, ensuring every real-world action is represented by a trusted digital record on the blockchain.
 -->
 
 ---
-layout: default
+layout: image-right
+image: https://images.unsplash.com/photo-1534413298607-48ba59e8a06d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+hide: false
 ---
 
 # How Ownership Drives
@@ -106,7 +138,8 @@ The SEN token’s value is intrinsically linked to the platform's adoption and t
 -->
 
 ---
-layout: default
+layout: image-left
+image: https://assets.breakpoints.live/shubham-dhage-_rZnChsIFuQ-unsplash.jpg
 ---
 
 # **Decentralized Governance & Stakeholder Tokenomics** (1/2)
@@ -118,25 +151,27 @@ layout: default
 - **Proven Blockchain Tech:** We leverage established blockchain tech like the SPL Governance standard to enable flexible and secue stakeholder tokenomics control.
 
 ---
-layout: default
+layout: image-right
+image: https://assets.breakpoints.live/shubham-dhage-_rZnChsIFuQ-unsplash.jpg
 ---
 
 # **Decentralized Governance & Stakeholder Tokenomics** (2/2)
 
 - **Incubating Your Own Recycling Business with SoEasy Network:**
-  - SoEasy Network will incubate recycling businesses around the world, starting with a **< 49% initial stakes**.
-  - Over time, _SoEasy Network_'s stakes can be split among new local stake-holders, ensuring a fair distribution of ownership and control by a solvereign state.
+  - SoEasy Network will incubate recycling businesses around the world, starting with a minority initial stakes.
+  - Over time, _SoEasy Network_'s stakes will be diversified among local stake-holders, ensuring  fair and sustainable growth for the new member's business.
 
 - **Genesis Node as the Initial Operation Intelligence Provider:**
-  - _SoEasy China_, as the genesis node and the founding member, is empowering **new member companies** with its growing operation intelligence via AI agents to upgrade or optimize their local operations.
-  - Countries with increasing adoption on renewable energy systems will benefit the most from SoEasy Network's participation to achieve their SDG goals, while boosting local economies.
+  - _SoEasy China_, as the genesis node, is empowering **new member companies** with its growing operation intelligence via AI agents to upgrade or optimize their local operations.
+  - Countries with increasing adoption of renewable energy systems will benefit the most from SoEasy Network's participation to achieve their SDG and economic goals.
 
 <!--
 Our vision for `Soeasy Network` is a global ecosystem where participants co-build, co-share, and co-win. Through token incentives and smart contracts, we quantify and reward contributions, ensuring that all stakeholders are aligned and have a vested interest in the network's success. This model enables us to foster local ownership and market validation, as exemplified by our approach to establishing operations in Thailand.
 -->
 
 ---
-layout: default
+layout: image-right
+image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Provenance & Trust:
@@ -159,36 +194,60 @@ layout: default
 # The Future: Prosperity Through
 ## Property Rights and Local Empowerment
 
-- **The Vision:** _SoEasy Network_ is the **essential technological infrastructure** designed to bring transparency, efficiency, and trust to the global renewable resources industry, with a strong focus on empowering local markets like Thailand.
+- **The Vision:** _SoEasy Network_ is the **essential technological infrastructure** designed to bring transparency, efficiency, and trust to the global renewable resources industry, with a strong focus on empowering local markets.
 
 - **The Pathway:**
   - We've started with _Tech for Social Good_ international SDG programs, to signup local partners and organizations.
-  - SoEasy China, genesis node enable **IP (Brand Assets) -> RWA (Digital Assets) -> IPO (Financial Assets)** pathway to success, adapting this blueprint for local market nuances and fostering local ownership.
+  - SoEasy China, is on track along the **IP (Brand Assets) -> RWA (Digital Assets) -> IPO (Financial Assets)** pathway to raise initial fund and kick start the genesis node.
 
-- **The Core Principle:** History has proven the unbreakable link between **strong property rights and the prosperity of nations.** We are bringing this principle to the digital world, ensuring that local stakeholders in markets like Thailand have true digital ownership and control over their valuable recycling data.
+- **The Core Principle:** History has proven the unbreakable link between **strong property rights and the prosperity of nations.** We are bringing this principle to the digital world, ensuring that local stakeholders in marketshave true digital ownership and control over their valuable recycling data.
 
 <!--
 George Washington wrote, 'Freedom and property rights are inseparable.' The same is true for the virtual realm. To ensure our digital freedom—so that we are not slaves to platforms or future AIs—we must have true digital property rights. By establishing these rights for recycled resources, **SoEasy Network** is building a fairer, more transparent, and more prosperous global economy for all, beginning with strong local partnerships and ownership in key markets like Thailand.
 -->
 
 ---
-layout: cover
+layout: image-right
+image: https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
+
+# Investor Enquiry
+
+<br/><br/><br/>
+## _**Chance Jiang**_, CEO, SoEasy HK<br/>
+#### chance@teb.network <br/>
+
+
+---
+layout: image-right
+image: https://assets.breakpoints.live/joel-vodell-8Ogfqvw15Rg-unsplash-small.jpg
 ---
 <br/>
 
-# 易收国际平台
-# SoEasy Network
+# 易收国际平台 | SoEasy Network
 **用数字确权引领资源再生、赋能可持续发展的未来**
+
+SoEasy HK | 易收国际, 07/26/2025
 
 ---
 layout: default
+class: px-20
+hide: false
 ---
 
 # **再生资源领域未被看见的挑战**
 
-- **问题所在：** 全球再生资源行业，包括**电池和铅回收**等关键领域，长期受困于**运营不透明、数据碎片化和信任缺失**。
+<div grid="~ cols-2 gap-2" m="t-2">
 
-- **发展障碍：** 这为运营商，特别是中小企业 (SME)，带来了巨大的**合规障碍**。由于缺乏可验证的运营数据，他们也**难以获得传统金融机构的融资支持**。
+**问题所在：** 全球再生资源行业，包括**电池和铅回收**等关键领域，长期受困于**运营不透明、数据碎片化和信任缺失**。
+
+**发展障碍：** 这为运营商，特别是中小企业 (SME)，带来了巨大的**合规障碍**。由于缺乏可验证的运营数据，他们也**难以获得传统金融机构的融资支持**。
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1681433401553-589104846604?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="batteries">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1683120927535-e10ce53531d6?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="shop">
+
+</div>
 
 <!--
  在现代经济中，数据是我们身份和工作的核心部分。然而，在传统的回收行业，运营商对自己产生的宝贵数据没有真正的所有权。他们的数字记录和交易历史可以随时被中心化平台修改或删除，使他们无法掌控自己的数字足迹。
@@ -196,13 +255,23 @@ layout: default
 
 ---
 layout: default
+class: px-20
+hide: false
 ---
 
 # **数据：回收行业尚未开发的资产**
 
-- **行业观察：** 从人工智能到供应链优化，数据是当今所有重大创新的燃料。
+<div grid="~ cols-2 gap-2" m="t-2">
 
-- **不公之处：** 尽管回收运营商持续不断地创造着宝贵的数据流，但其所有权和经济利益几乎完全被孤立的中心化平台所攫取，价值的创造者并未得到应有的回报。
+**行业观察：** 从人工智能到供应链优化，数据是当今所有重大创新的燃料。
+
+**不公之处：** 尽管回收运营商持续不断地创造着宝贵的数据流，但其所有权和经济利益几乎完全被孤立的中心化平台所攫取，价值的创造者并未得到应有的回报。
+
+<img border="rounded" src="https://assets.breakpoints.live/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="data flow">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1682126334986-d3e22f992df2?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="book keeping">
+
+</div>
 
 <!--
 每一笔回收交易、每一次物流运输和每一个处理环节都产生了海量的运营和财务数据。这些信息是优化供应链、创建实体资产通证化 (RWA) 项目、确保税务合规以及构建新型金融服务的金矿。然而，创造这些数据的企业却被隔绝在其巨大的价值之外。
@@ -210,20 +279,32 @@ layout: default
 
 ---
 layout: default
+class: px-20
+hide: false
 ---
 
 # **Web3 与区块链：真正数字所有权的基础**
 
-- **解决方案：** **SoEasy Network** (易收国际平台) 通过构建一个**去中心化的数据预言机和市场基础设施**，来解决这些行业挑战。
+<div grid="~ cols-2 gap-2" m="t-2">
 
-- **行业变革：** 我们的平台将原始、碎片化的运营数据转化为**可验证、可审计且不可篡改的数字资产**，为整个行业打造一个单一事实来源 (Single Source of Truth)。
+**解决方案：** **SoEasy Network** (易收国际平台) 通过构建一个**去中心化的数据预言机和市场基础设施**，来解决这些行业挑战。
+
+**行业变革：** 我们的平台将原始、碎片化的运营数据转化为**可验证、可审计且不可篡改的数字资产**，为整个行业打造一个单一事实来源 (Single Source of Truth)。
+
+<img border="rounded" src="https://assets.breakpoints.live/photo-network.png" alt="data network">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1661667061015-20973efdac23?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cash flow">
+
+</div>
 
 <!--
 SoEasy Network 旨在将数字所有权革命带入再生资源行业。我们正在构建一个能够服务全球回收企业的去中心化数据市场。通过将实体运营与去中心化金融 (DeFi) 相连接，我们实现了透明且可验证的实体资产 (RWA) 管理，确保每一个真实的业务行为都能在区块链上拥有一个可信的数字记录。
 -->
 
 ---
-layout: default
+layout: image-right
+image: https://images.unsplash.com/photo-1534413298607-48ba59e8a06d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+hide: false
 ---
 
 # **所有权如何驱动经济自由与价值**
@@ -242,86 +323,112 @@ layout: default
 layout: default
 ---
 
-# **SEN 代币：驱动生态系统的经济引擎**
+# **驱动全球再生资源生态的经济引擎**
 
-- **经济引擎：** 原生 **SEN 代币**是 SoEasy Network 生态系统的经济引擎。
-- **核心功用：** 它作为我们去中心化数据市场上的**主要交易媒介**。数据验证、访问和高级服务的费用都将以 SEN 支付。
-- **激励机制：** **代币奖励机制**激励数据提供者完整、及时地贡献高质量、可验证的数据。
-- **质押与治理：** 参与者可以质押 SEN 以帮助保护网络安全、获取高级功能，并参与**去中心化治理**。
+- **经济引擎：** 原生 **SEN 代币** 是易收国际平台生态系统的经济引擎。
+
+- **效用：** 它作为我们去中心化市场中**数据交易的主要“记账单位”**。数据验证、访问和高级服务的费用均以 SEN 支付。
+
+- **激励：** **代币奖励机制** 激励数据提供者完整、及时地贡献高质量、可验证的数据。
+
+- **质押与治理：** 参与者可以质押 SEN 以帮助保护网络安全、访问高级功能并参与**去中心化治理**。
+  - 易收中国作为**第一个创世节点**来保障网络安全
+  - 以及其他由早期资源再生业务伙伴运营的成员节点
 
 <!--
-SEN 代币的价值与平台的采用率及其数据的效用内在挂钩。该模型确保了贡献宝贵运营数据的人能够得到直接回报，从而打造一个强大、自我维持的生态系统，让所有参与者都能从集体努力中受益。
+SEN 代币的价值与平台的采用及其内部数据的效用息息相关。这种模式确保了那些贡献有价值运营数据的人得到直接奖励，从而培育一个强大、自我维持的生态系统，其中所有参与者都从集体努力中受益。
 -->
 
 ---
-layout: default
+layout: image-left
+image: https://assets.breakpoints.live/shubham-dhage-_rZnChsIFuQ-unsplash.jpg
 ---
 
-# **去中心化治理与利益相关者资本主义** (1/2)
+# **去中心化治理与通证经济学** (1/2)
 
-- **全新范式：** 这代表了从传统的「**股东资本主义**」向「**平权社群通证经济**」的根本转变。在这里，从最小的回收站到最大的投资者，每一位参与者都将成为所有者和决策者。
+- **新范式：** 这代表了从传统**股东资本主义**向**利益相关者通证经济学**的根本性转变，其中每个参与者——从最小的回收门店到最大的投资者——都成为所有者和决策者。
 
-- **社区控制：** SoEasy Network 被设计为一个**去中心化自治组织 (DAO)**，其未来治理将由 SEN  工作量代币持有者管理。
+- **社区控制：** **SoEasy Network** 被设计为一个**去中心化自治组织 (DAO)**，未来的治理将由 SEN 代币持有者管理，即全球各地的参与成员，其中易收中国作为创始成员和创世数据节点。
+
+- **成熟区块链技术：** 我们利用成熟的区块链技术，如 SPL 治理标准，来实现灵活且安全的利益相关者通证经济学控制。
+
 
 ---
-layout: default
+layout: image-right
+image: https://assets.breakpoints.live/shubham-dhage-_rZnChsIFuQ-unsplash.jpg
 ---
 
-# **去中心化治理与利益相关者资本主义** (2/2)
+# **去中心化治理与通证经济学** (2/2)
 
-- **孵化 SoEasy 泰国：**
-  - SoEasy Network 准备在泰国孵化一家国家运营公司，初期将持有**39%的股份**。随着国家运营公司（作为 SoEasy Network 的成员公司）在当地市场获得验证，其所有权将逐步纳入更多泰国股东。
+- **用易收国际平台孵化您的回收业务：**
+  - **易收国际平台 / SoEasy Network** 将孵化全球回收业务，以少数初始股权开始。
+  - 随着时间推移，**易收国际平台**的股权将分散给本地利益相关者，确保新成员业务的公平和可持续增长。
 
-- **作为初始运营智能和孵化模式的创世节点：**
-  - 中国易收网作为创世节点和创始成员，将贡献第一层的资源回收运营智能。这一智能将被用于在全球范围内孵化新的回收公司，包括在泰国等国家。
-
-- **成熟工具：**
-  - 我们利用 SPL 治理标准等成熟框架，为管理 DAO 和赋能社区控制提供强大的工具。
+- **创世节点作为初始运营智能提供者：**
+  - **易收中国**作为创世节点，正通过 AI 代理以其不断增长的运营智能赋能**新成员公司**，以升级或优化其本地运营。
+  - 随着可再生能源系统采纳的增加，各国将从易收国际平台的参与中受益最多，以实现其 SDG 和经济目标。
 
 <!--
-我们对 `SoEasy Network` 的愿景是建立一个全球生态系统，让参与者能够共建、共享、共赢。通过代币激励和智能合约，我们量化并奖励贡献，确保所有利益相关者的目标一致，并在网络的成功中拥有既得利益。这一模式使我们能够促进当地所有权和市场验证，正如我们在泰国建立业务的方法所体现的那样。
+我们对 `Soeasy Network` 的愿景是一个全球生态系统，参与者在此共同建设、共同分享、共同获胜。通过代币激励和智能合约，我们量化并奖励贡献，确保所有利益相关者保持一致，并对网络的成功拥有既得利益。这种模式使我们能够促进本地所有权和市场验证，这在我们在泰国建立运营的方针中得到了体现。
 -->
 
+
 ---
-layout: default
+layout: image-right
+image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-# **溯源与信任：实体资产通证化 (RWA) 的基石**
+# 溯源与信任：
+## 实体资产通证化 (RWA) 的基石
 
-- **数据完整性：** `Soeasy Network` 保证数据的完整性和可审计性。我们使用“链上证明锚定”来保护数据库状态，并要求所有事件都经过加密签名。
+- **数据完整性：** **易收国际平台 / SoEasy Network** 确保数据完整性和可审计性。我们使用_链上证明锚定_来保障数据库状态，并要求所有事件进行加密签名。
 
-- **可验证记录：** 数据被捕获为**不可篡改的资源事件记录**，在源头进行加密签名。我们将利用零知识证明 (ZKP) 来确保数据的完整性和商业隐私。
+- **可验证记录：** 数据被捕获为**不可变资源事件记录**，并在源头进行加密签名。我们将利用零知识证明（ZKP）来确保完整性和商业隐私。
 
-- **为合规而生：** 这种高完整性的数据创建了一个可信的财务分类账，这对于开发**自动化税务合规解决方案**和消除不透明交易至关重要。
+- **合规就绪：** 这种高完整性数据创建了一个可信的财务账本，这对于开发**自动化税务合规解决方案**和消除不透明交易至关重要。
 
 <!--
-数字权利之争的核心在于溯源。当 Getty Images 起诉一家 AI 公司时，正是因为他们能证明其图片被未经许可地使用。区块链为数字资产解决了溯源问题。这对于再生资源这类极度依赖可追溯性和信任的行业至关重要。我们的系统将原始数据转化为可验证的财务记录，既满足最严格的合规要求，又通过 ZKP 保护敏感的商业数据。
+数字权利之争取决于溯源。当 Getty Images 起诉一位 AI 创作者时，是因为他们能证明其图片未经许可被使用。区块链解决了数字财产的溯源问题。这对于可再生资源行业至关重要，因为可追溯性和信任是其全部。我们的系统将原始数据转化为可验证的财务记录，满足最严格的合规要求，同时利用 ZKP 保护敏感的商业数据。
 -->
+
 
 ---
 layout: default
 ---
 
-# **未来：以产权创繁荣，赋能 SDG/ESG 发展**
+# 未来：以产权创繁荣，赋能 SDG/ESG 发展
 
-- **SoEasy Global 愿景：**
-  - `Soeasy Network` 是旨在为全球再生资源行业带来**透明、高效和信任**的**核心技术基础设施**，并重点关注和赋能（国家级）再生资源资产成员公司，例如泰国公司，的孵化和本地市场发展。
+- **愿景：**
+  - **易收国际平台 / SoEasy Network** 旨在为全球再生资源行业带来透明度、效率和信任的**核心技术基础设施**，重点赋能本地市场。
 
-- **发展路径：**
-  - 升级 SoEasy China 的数字确权运营和商家工具
-  - 引导成员企业沿着 **IP (品牌资产) > RWA (数字资产) > IPO (金融资产)** 的路径走向成功，同时针对本地市场特点调整这一蓝图，并促进本国再生资源数字资产化和供应链金融。
+- **路径：**
+  - 我们已启动“科技向善”国际可持续发展目标（SDG）项目，以签约本地合作伙伴和组织。
+  - 易收中国正沿着 **IP（品牌资产） > RWA（数字资产） > IPO（金融资产）** 的路径，筹集启动资金并启动创世节点。
 
 - **核心原则：**
-  - 历史已经证明，**强大而清晰的产权制度**与**国家级产业繁荣**之间存在着不可分割的联系。
-  - 我们正在将这一原则带入区块链数字资产世界，确保泰国等市场的本地利益相关者对其宝贵的再生资源产业数据拥有真正的所有权和控制权。
+  - 历史已证明**强大的产权与国家繁荣**之间存在不可分割的联系。我们将这一原则带入数字世界，确保本地市场的利益相关者对其宝贵的回收数据拥有真正的数字所有权和控制权。
+
 
 <!--
 乔治·华盛顿曾写道：‘自由与财产权密不可分。’ 这句话同样适用于虚拟世界。为了确保我们的数字自由——使我们不成为平台或未来人工智能的奴隶——我们必须拥有真正的数字产权。通过为再生资源建立这些权利，SoEasy Network 正在为所有人构建一个更公平、更透明、更繁荣的全球经济，从与泰国等关键市场的强大本地合作和所有权开始。
 -->
 
 ---
+layout: image-right
+image: https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
+
+# 投资咨询联系人
+
+<br/><br/><br/>
+## _**Chance Jiang**_, CEO, SoEasy HK<br/>
+#### chance@teb.network <br/>
+
+
+
+---
 transition: fade-out
-hide: false
+hide: true
 ---
 
 # What is Slidev?
@@ -364,7 +471,7 @@ Here is another comment.
 ---
 transition: slide-up
 level: 2
-hide: false
+hide: true
 ---
 
 # Navigation
@@ -392,7 +499,7 @@ Hover on the bottom-left corner to see the navigation's controls panel, [learn m
 ---
 layout: two-cols
 layoutClass: gap-16
-hide: false
+hide: true
 ---
 
 # Table of contents
@@ -412,7 +519,7 @@ The title will be inferred from your slide content, or you can override it with 
 ---
 layout: image-right
 image: https://cover.sli.dev
-hide: false
+hide: true
 ---
 
 # Code
@@ -464,7 +571,7 @@ Notes can also sync with clicks
 
 ---
 level: 2
-hide: false
+hide: true
 ---
 
 # Shiki Magic Move
@@ -538,7 +645,7 @@ const author = {
 ````
 
 ---
-hide: false
+hide: true
 ---
 
 # Components
@@ -583,7 +690,7 @@ Also, HTML elements are valid:
 
 ---
 class: px-20
-hide: false
+hide: true
 ---
 
 # Themes
@@ -614,7 +721,7 @@ Read more about [How to use a theme](https://sli.dev/guide/theme-addon#use-theme
 check out the [Awesome Themes Gallery](https://sli.dev/resources/theme-gallery).
 
 ---
-hide: false
+hide: true
 ---
 
 # Clicks Animations
@@ -653,7 +760,7 @@ also allows you to add
 </div>
 
 ---
-hide: false
+hide: true
 ---
 
 # Motions
@@ -735,7 +842,7 @@ const final = {
 </div>
 
 ---
-hide: false
+hide: true
 ---
 
 # LaTeX
@@ -759,7 +866,7 @@ $$
 [Learn more](https://sli.dev/features/latex)
 
 ---
-hide: false
+hide: true
 ---
 
 # Diagrams
@@ -842,7 +949,7 @@ Learn more: [Mermaid Diagrams](https://sli.dev/features/mermaid) and [PlantUML D
 foo: bar
 dragPos:
   square: 691,32,167,_,-16
-hide: false
+hide: true
 ---
 
 # Draggable Elements
