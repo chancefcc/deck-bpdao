@@ -251,6 +251,11 @@ hide: false
 
 <!--
  在现代经济中，数据是我们身份和工作的核心部分。然而，在传统的回收行业，运营商对自己产生的宝贵数据没有真正的所有权。他们的数字记录和交易历史可以随时被中心化平台修改或删除，使他们无法掌控自己的数字足迹。
+
+ （铺垫范式转移的机会）
+ 加入例子：传统行业缺乏数字化运营能力，传统靠人的判断，是买方市场，但数据的缺失导致了信息不对称和不公平竞争。这部分有巨大的提效增值空间。为解决这个行业问题，构建数据平台服务市场参与者并给予他们经济回报。例如，一家小型电池回收商可能无法准确评估其库存价值，因为缺乏标准化的数据格式和共享机制。
+ (铺垫联网数据的价值，联网数据的价值在于它能够提供透明度和可追溯性，帮助运营商更好地管理其业务，提高效率和盈利能力。)
+
  -->
 
 ---
@@ -263,9 +268,9 @@ hide: false
 
 <div grid="~ cols-2 gap-2" m="t-2">
 
-**行业观察：** 从人工智能到供应链优化，数据是当今所有重大创新的燃料。
+**产业观察：** 传统回收行业经历了三个阶段：v1.0 - 单打独斗、v2.0 - 联盟合作（集采模式）、v3.0 - 开放共享（数证化转型）。我们有机会驱动从业者和运营商的宝贵数据从孤立到聚合、从聚合到数证化共享。
 
-**不公之处：** 尽管回收运营商持续不断地创造着宝贵的数据流，但其所有权和经济利益几乎完全被孤立的中心化平台所攫取，价值的创造者并未得到应有的回报。
+**不公之处：** v2.0 阶段从业者和运营商持续不断地创造着宝贵的数据流，但其所有权和经济利益没有形成有效市场和价格体系，创造者并未从可估值到数据中获得应有的回报。
 
 <img border="rounded" src="https://assets.breakpoints.live/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="data flow">
 
@@ -283,15 +288,61 @@ class: px-20
 hide: false
 ---
 
-# **Web3 与区块链：真正数字所有权的基础**
+# 易收中国 v2.0 已验证模式
 
 <div grid="~ cols-2 gap-2" m="t-2">
 
-**解决方案：** **SoEasy Network** (易收国际平台) 通过构建一个**去中心化的数据预言机和市场基础设施**，来解决这些行业挑战。
+**「四流合一」：** 数据流、票据流（稅）、物资流、资金流
 
-**行业变革：** 我们的平台将原始、碎片化的运营数据转化为**可验证、可审计且不可篡改的数字资产**，为整个行业打造一个单一事实来源 (Single Source of Truth)。
+**丰富的衍生金融服务：** 金融助贷、产业保险、数字化工具、稅证业务等
+
+<img border="rounded" src="https://assets.breakpoints.live/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="data flow">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1682126334986-d3e22f992df2?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="book keeping">
+
+</div>
+
+---
+layout: default
+class: px-20
+hide: false
+---
+
+# 易收国际 v3.0 模式：Web3 与区块链赋能
+## 真正数字所有权的基础
+
+<div grid="~ cols-2 gap-2" m="t-2">
+
+**解决方案：** SoEasy Network 通过构建一个**去中心化的数据预言机（Data Oracle）和市场网络（Market Network）**，来解决这些行业挑战。
+
+**行业变革：** 我们将原始、碎片化的运营数据转化为**可验证、可审计且不可篡改的数字资产**，为整个行业打造一个单一事实来源 (Single Source of Truth)。
 
 <img border="rounded" src="https://assets.breakpoints.live/photo-network.png" alt="data network">
+
+<img border="rounded" src="https://plus.unsplash.com/premium_photo-1661667061015-20973efdac23?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cash flow">
+
+</div>
+
+<!--
+SoEasy Network 旨在将数字所有权革命带入再生资源行业。我们正在构建一个能够服务全球回收企业的去中心化数据市场。通过将实体运营与去中心化金融 (DeFi) 相连接，我们实现了透明且可验证的实体资产 (RWA) 管理，确保每一个真实的业务行为都能在区块链上拥有一个可信的数字记录。
+-->
+
+---
+layout: default
+class: px-20
+hide: false
+---
+
+# 易收国际 v3.0 模式：通证经济 + 零工经济
+## 全球复制易收中国的运营智能
+
+<div grid="~ cols-2 gap-2" m="t-2">
+
+**解决方案：** 易收国际帮助全球成员机构实现本国资源回收行业的「出租车司机 vs. Uber」模式
+
+**行业变革：** 易收中国履行创世节点成员的责任，通过 SoEasy Network 加速全球资源回收行业的运营智能升级。
+
+<img border="rounded" src="https://images.unsplash.com/photo-1482029255085-35a4a48b7084?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Uber style">
 
 <img border="rounded" src="https://plus.unsplash.com/premium_photo-1661667061015-20973efdac23?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cash flow">
 
@@ -402,11 +453,16 @@ layout: default
   - **易收国际平台 / SoEasy Network** 旨在为全球再生资源行业带来透明度、效率和信任的**核心技术基础设施**，重点赋能本地市场。
 
 - **路径：**
-  - 我们已启动“科技向善”国际可持续发展目标（SDG）项目，以签约本地合作伙伴和组织。
-  - 易收中国正沿着 **IP（品牌资产） > RWA（数字资产） > IPO（金融资产）** 的路径，筹集启动资金并启动创世节点。
+  - 我们已启动「科技向善」国际可持续发展目标（SDG）项目，以签约本地合作伙伴和组织。
+  - 易收中国正沿着 **IP/品牌资产 > RWA/数字资产  > IPO/金融资产** 的路径，筹集启动资金并启动创世节点。
 
 - **核心原则：**
-  - 历史已证明**强大的产权与国家繁荣**之间存在不可分割的联系。我们将这一原则带入数字世界，确保本地市场的利益相关者对其宝贵的回收数据拥有真正的数字所有权和控制权。
+  - 历史已证明**清晰的产权与产业繁荣**之间存在不可分割的联系。我们将这一原则带入数字世界，确保本地市场的利益相关者对其宝贵的回收数据拥有真正的数字所有权和控制权。
+
+- **ESG 价值**
+  - 个人·获得稳定的就业机会和收入，促进充分就业；
+  - 增强职业发展和技能提升的机会；
+  - 促进可持续发展和环境保护。
 
 
 <!--
