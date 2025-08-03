@@ -16,5 +16,8 @@ This repo is hosted at https://github.com/teb-network/deck, and auto deployed to
 
 ```
 git push origin main
-``
+```
+
+Once you finish above, you'll see the live deck at [https://deck-bzb.pages.dev/](https://deck-bzb.pages.dev/).
+
 Learn more about Slidev at the [documentation](https://sli.dev/).

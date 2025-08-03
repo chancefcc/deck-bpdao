@@ -306,12 +306,13 @@ layout: image-right
 image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-# Financial Forecast & Funding Needs (1/2): Funding Needs:
+# Fund Raise & Equity Offer (1/2)
 
-- **Seed Round Funding Amount:** 1M USD
+- **Seed Round Funding Amount:**
+  - Raising $13.7 million USD for 20% equity tokens
+  - Initial valuation at $68.6 million USD
+
 - **Use of Funds:**
-  - **Technology R&D and Maintenance:** Continuous investment in core technologies such as blockchain, data analytics, and AI R&D to ensure platform leadership.
-  - **Team Building and Talent Acquisition:** Attract top global talent in technology, operations, marketing, and management.
   - **Market Promotion and Global Expansion:** Cover market marketing, channel building, localized operations, and partner expansion in different regions.
   - **Compliance and Legal:** Ensure global operations comply with local laws and regulations.
   - **Operating Capital:** Funds required to maintain daily operations.
@@ -321,10 +322,15 @@ layout: image-right
 image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-# Financial Forecast & Funding Needs (2/2): Financial Forecast:
+# Fund Raise & Equity Offer (2/2)
 
-- A detailed financial forecast model is not provided at this stage, but in the future, a detailed 3-year financial forecast, including key indicators such as revenue, costs, profits, and cash flow, will be provided based on market research, user growth models, and revenue planning.
-- It is expected that in the initial stage of platform launch, revenue growth will primarily be driven by data subscriptions and cross-border payments. As asset issuance and trading mature, profit margins will significantly increase.
+- **Use of Funds:**
+  - **Market Promotion and Global Expansion:** Cover market marketing, channel building, localized operations, and partner expansion in different regions.
+  - **Compliance and Legal:** Ensure global operations comply with local laws and regulations.
+  - **Operating Capital:** Funds required to maintain daily operations.
+
+- Refer to _SoEasy Revenue Plan_ for revenue modeling and key metrics.
+- During investment talks, we'll provide you with more detail upon requests, such as revenue, costs, profits, and cash flow.
 
 ---
 layout: image-left
@@ -785,10 +791,10 @@ layout: image-right
 image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-# 财务预测与融资需求（1/2）
-## 融资需求：
+# 融资与财务（1/2）
 
-- **种子轮融资额：** 1M USD
+- **种子轮融资额：**
+  - 融资 1 亿 RMB，出让 20% 股权，估值 5 亿 RMB
 - **资金用途：**
   - **技术研发与维护：** 持续投入区块链技术、数据分析、AI等核心技术的研发，确保平台领先性。
   - **团队建设与人才引进：** 吸引全球顶尖的技术、运营、市场和管理人才。
@@ -801,11 +807,10 @@ layout: image-right
 image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-# 财务预测与融资需求（2/2）
-## 财务预测：
+# 融资与财务（1/2）
 
-- 本阶段暂不提供详细财务预测模型，但未来将根据市场调研、用户增长模型和营收规划，提供详细的 3 年财务预测，包括收入、成本、利润、现金流等关键指标。
-- 预计在平台启动初期，营收增长将主要由数据订阅和跨境支付驱动，随着资产发行与交易的成熟，利润空间将大幅提升。
+- 参考「易收国际营收规划」了解我们的营收发展阶段模型和关键指标。
+- 投资沟通中，我们将提供更详细的信息，包括收入、成本、利润和现金流等关键指标。
 
 ---
 layout: image-left
