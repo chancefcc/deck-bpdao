@@ -144,7 +144,7 @@ hide: false
 
 ---
 layout: image-right
-image: https://assets.breakpoints.live/photo-network.png
+image: https://images.unsplash.com/photo-1652533625932-25d5104161a1?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 hide: false
 ---
 
@@ -158,7 +158,7 @@ hide: false
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1652533625932-25d5104161a1?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # SoEasy Network v3.0 Solutions: Provenance & Trust, the Foundation of RWA
@@ -175,9 +175,8 @@ image: https://assets.breakpoints.live/photo-network.png
 hide: false
 ---
 
-# SoEasy Network Business Model (1/3)
+# SoEasy Business Model (1/3): Core Philosophy
 
-## Core Philosophy:
 SoEasy Network's core business model is to build an _Environmental Value Circular Ecosystem_ based on RWA and digital assets. Data providers (new energy equipment manufacturers, recycling companies, individual practitioners) integrate and synchronize anonymized data through operational tools to receive **token (point) rewards**.
 
 These points can circulate and be traded within the platform, and cross-chain confirmation and transactions can be realized in the future. Through data mining and analysis, SoEasy Network will improve the efficiency and transparency of the entire recycling industry chain and ultimately convert environmental contributions into **tradable carbon assets**.
@@ -188,8 +187,7 @@ image: https://assets.breakpoints.live/photo-network.png
 hide: false
 ---
 
-# SoEasy Network Business Model (2/3)
-## RWA and Digital Tokens:
+# SoEasy Business Model (2/3): RWA and Digital Tokens
 
 - **Anchored Assets:** SoEasy Network's tokens are anchored to verified recycling data and the environmental contributions they represent (e.g., reduced carbon emissions, saved resources).
 - **Value Capture:** As global attention to environmental protection and carbon emissions increases, and as the SoEasy Network platform expands in scale and accumulates data, the intrinsic value of digital tokens will continue to rise.
@@ -201,8 +199,7 @@ image: https://assets.breakpoints.live/photo-network.png
 hide: false
 ---
 
-# SoEasy Network Business Model (3/3)
-## Member Org Empowerment
+# SoEasy Business Model (3/3): Member Org Empowerment
 
 - **Data Monetization:** Help recycling enterprises convert their daily operational data into quantifiable environmental value and receive digital token rewards.
 - **Efficiency Improvement:** Optimize recycling processes and reduce operational costs through platform data analysis and intelligent matching.
@@ -215,7 +212,7 @@ image: https://assets.breakpoints.live/photo-network.png
 hide: false
 ---
 
-# Market Analysis & Strategy (1/3): Target Market:
+# Market Analysis & Strategy (1/3): Target Markets
 - **Initial Stage:** Focus on easily monetizable and highly market-oriented recycling categories, such as e-bikes' batteries, electric vehicle batteries, or power storage batteries.
 - **Regional Expansion:** Scale up the proven China market operation, bootstrap the network, then gradually expand to emerging markets such as Southeast Asia, South Asia, the Middle East, Africa, and South America, finally entering developed markets like Europe and America, achieving global coverage.
 - **Target Customers:** Recycling enterprises at all levels, individual recyclers, waste treatment plants, environmental organizations, carbon asset investors, and strategic investors focused on ESG.
@@ -226,7 +223,7 @@ image: https://assets.breakpoints.live/photo-network.png
 hide: false
 ---
 
-# Market Analysis & Strategy (2/3): Competitive Advantages:
+# Market Analysis & Strategy (2/3): Competitive Advantages
 
 - **Innovative Model:** Deep integration of RWA and blockchain technology, creating a new paradigm for value measurement in the global recycling industry.
 - **Empowerment, Not Competition:** Collaborate with existing industry participants for mutual benefit, expanding the market pie together.
@@ -240,7 +237,7 @@ image: https://assets.breakpoints.live/photo-network.png
 hide: false
 ---
 
-# Market Analysis & Strategy (3/3): Go-to-Market Strategy:
+# Market Analysis & Strategy (3/3): Go-to-Market Strategy
 
 - **Community & Builder First:** Establish active online and offline builders' communities to attract and educate _potential users, network participants, and investors_.
 - **Industry Partnerships:** Establish strategic partnerships with local recycling associations, environmental organizations, and government agencies.
@@ -290,7 +287,7 @@ SoEasy Network is running at 3 Revenue Stages, forming a multi-layered and susta
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://plus.unsplash.com/premium_photo-1675018587778-67888c112bd8?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # DAO Management Team
@@ -303,7 +300,7 @@ image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1593672715438-d88a70629abe?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Fund Raise & Equity Offer (1/2)
@@ -319,7 +316,7 @@ image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1593672715438-d88a70629abe?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Fund Raise & Equity Offer (2/2)
@@ -334,7 +331,7 @@ image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&
 
 ---
 layout: image-left
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1579621970343-21c491b3f363?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Investment Highlights
@@ -348,7 +345,7 @@ image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1519599189038-58e6fc7a060d?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Risks Disclaimer
@@ -788,7 +785,7 @@ image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1593672715438-d88a70629abe?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # 融资与财务（1/2）
@@ -804,17 +801,17 @@ image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1593672715438-d88a70629abe?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-# 融资与财务（1/2）
+# 融资与财务（2/2）
 
 - 参考「易收国际营收规划」了解我们的营收发展阶段模型和关键指标。
 - 投资沟通中，我们将提供更详细的信息，包括收入、成本、利润和现金流等关键指标。
 
 ---
 layout: image-left
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1579621970343-21c491b3f363?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # 投资亮点
@@ -828,7 +825,7 @@ image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&
 
 ---
 layout: image-right
-image: https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1519599189038-58e6fc7a060d?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # 风险提示
