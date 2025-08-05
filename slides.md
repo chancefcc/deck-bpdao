@@ -21,7 +21,7 @@ class: 'text-left'
 # SoEasy Network
 ## Empowering Global Resource Recycling Businesses <br/> with Verifiable Digital Ownership
 
-SoEasy HK | 易收国际, 07/26/2025
+SoEasy HK | 易收国际, 08/03/2025
 
 ---
 layout: image-right
@@ -397,7 +397,7 @@ image: https://assets.breakpoints.live/joel-vodell-8Ogfqvw15Rg-unsplash-small.jp
 # 易收国际平台 | SoEasy Network
 **用数字确权推动全球再生资源共识和产业发展**
 
-SoEasy HK | 易收国际, 07/26/2025
+SoEasy HK | 易收国际, 08/03/2025
 
 ---
 layout: image-right
