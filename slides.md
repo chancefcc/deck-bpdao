@@ -18,7 +18,7 @@ image: https://assets.breakpoints.live/joel-vodell-8Ogfqvw15Rg-unsplash-small.jp
 class: 'text-left'
 ---
 
-# SoEasy Network 嘉俊你好！
+# SoEasy Network
 ## Empowering Global Resource Recycling Businesses <br/> with Verifiable Digital Ownership
 
 SoEasy HK | 易收国际, 08/03/2025
