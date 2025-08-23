@@ -10,13 +10,15 @@
 }
 
 /* --- Font Application --- */
-/* Apply 'Space Grotesk' first for English, then 'Noto Serif SC' for Chinese characters in the main body text */
+/* Apply 'Exo 2' first for English, then 'Noto Serif SC' for Chinese characters in the main body text */
 body,
 .slidev-layout {
   font-family: "Exo 2", "Noto Serif SC", sans-serif;
+  font-size: 0.9rem;
 }
 
-/* --- Apply 'Exo 2' first for English, then 'Noto Serif SC' for Chinese characters in headings --- */
+/* --- Apply 'Exo 2' first for English, then
+'Noto Serif SC' for Chinese characters in headings --- */
 .slidev-layout h1,
 .slidev-layout h2,
 .slidev-layout h3,
