@@ -4,8 +4,7 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 title: 'SoEasy Network | Empowering Global Resource Recycling Businesses'
 info: |
   ## SoEasy Network
-  A Decentralized Data Oracle for Real-World Asset Verification and Finance.
-  This presentation highlights the immense market potential for resource recycling in Thailand and SoEasy Network's role in fostering sustainable growth.
+  Empowering the world's resource recycling and carbon neutral businesses with verifiable digital assets.
 drawings:
   persist: false
 colorSchema: auto
@@ -19,8 +18,10 @@ class: 'text-left'
 ---
 
 # SoEasy Network
+Empowering the world's resource recycling and carbon neutral businesses with verifiable assets ownership
 ## 易收国际商业计划
 **用数字确权推动地球资源再生和低碳产业发展**
+
 
 SoEasy HK | 易收国际, 08/23/2025
 
