@@ -1,9 +1,10 @@
-/* Import Space Grotesk (English body), Exo 2 (English headers), and Noto Serif SC (Chinese) from Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&family=Exo+2:wght@400;700&family=Noto+Serif+SC:wght@400;700&display=swap");
+/* Import Inter (English headers), Exo 2 (English body), and Noto Serif SC (Chinese) from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Exo+2:wght@400;700&family=Noto+Serif+SC:wght@400;700&display=swap");
 
 /* --- Global Variables --- */
 :root {
-  --primary-color: #2f805e;
+  --primary-color: #008080; /* Updated primary color */
+  --secondary-color: #ffe0b2; /* Added secondary color */
   --light-slide-background: #f5f5dc; /* Very light grey for slide backgrounds in light mode */
   --light-container-background: #e9ecef; /* Lighter grey for containers in light mode */
   --light-text-color: #212529; /* Dark text for light mode */
@@ -13,11 +14,11 @@
 /* Apply 'Exo 2' first for English, then 'Noto Serif SC' for Chinese characters in the main body text */
 body,
 .slidev-layout {
-  font-family: "Exo 2", "Noto Serif SC", sans-serif;
-  font-size: 0.9rem;
+  font-family: "Exo 2", "Noto Serif SC", sans-serif; /* Updated body font */
+  font-size: 1rem;
 }
 
-/* --- Apply 'Exo 2' first for English, then
+/* --- Apply 'Inter' first for English, then
 'Noto Serif SC' for Chinese characters in headings --- */
 .slidev-layout h1,
 .slidev-layout h2,
@@ -25,7 +26,7 @@ body,
 .slidev-layout h4,
 .slidev-layout h5,
 .slidev-layout h6 {
-  font-family: "Space Grotesk", "Noto Serif SC", sans-serif;
+  font-family: "Inter", "Noto Serif SC", sans-serif; /* Updated heading font */
   font-weight: 700;
   color: var(--primary-color);
 }
