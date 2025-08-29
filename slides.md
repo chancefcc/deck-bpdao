@@ -111,44 +111,44 @@ left: true
 # Partners Network
 
 <div class="grid grid-cols-4 gap-8 text-center">
-  <a href="https://partner1.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-ibm-watson-orders text-6xl text-primary mb-2"></span>
-    <span>Partner One</span>
+    <a href="https://sbv.one/" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
+      <img src="https://assets.breakpoints.live/deck/sbv_logo.png" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+      <span>StartingBlock Ventures</span>
+    </a>
+
+  <a href="https://www.changemaker.asia/" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
+      <img src="https://assets.breakpoints.live/deck/changemaker-logo.png" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+    <span>ChangeMaker (Malaysia)</span>
   </a>
 
-  <a href="https://partner2.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-partnership text-6xl text-primary mb-2"></span>
-    <span>Partner Two</span>
-  </a>
-
-  <a href="https://partner3.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-cloud-satellite-config text-6xl text-primary mb-2"></span>
-    <span>Partner Three</span>
+  <a href="https://www.gbatalents.org/" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
+      <img src="https://assets.breakpoints.live/deck/GBATA-logo.jpg" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+    <span>GBATA (HK)</span>
   </a>
 
   <a href="https://partner4.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-globe text-6xl text-primary mb-2"></span>
-    <span>Partner Four</span>
+      <img src="https://assets.breakpoints.live/deck/rmaict-logo.png" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+    <span>RMAICT (Malaysia)</span>
   </a>
 
-  <a href="https://partner5.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-tree-view text-6xl text-primary mb-2"></span>
-    <span>Partner Five</span>
+  <a href="https://www.greenwave.com.my/" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
+    <img src="https://assets.breakpoints.live/deck/greenwave-logo.jpg" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+    <span>GW Tech (Malaysia)</span>
   </a>
 
-  <a href="https://partner6.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-data-base text-6xl text-primary mb-2"></span>
-    <span>Partner Six</span>
+  <a href="https://duonb.org" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
+    <img src="https://assets.breakpoints.live/deck/duonb.png" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+    <span>DuoNB Foundation</span>
   </a>
 
-  <a href="https://partner7.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-flow-logs text-6xl text-primary mb-2"></span>
-    <span>Partner Seven</span>
+  <a href="https://fmhub.us" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
+      <img src="https://assets.breakpoints.live/deck/fmhub-soft-peach.png" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+    <span>FMHub.us</span>
   </a>
 
-  <a href="https://partner8.com" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
-    <span class="i-carbon-security-services text-6xl text-primary mb-2"></span>
-    <span>Partner Eight</span>
+  <a href="https://vcc.villagecity.org" target="_blank" class="flex flex-col items-center p-4 rounded-lg hover:bg-gray-100 transition-colors duration-200 no-underline">
+      <img src="https://assets.breakpoints.live/deck/vcc-logo.png" alt="Partner One Logo" class="h-16 w-16 object-contain mb-2">
+    <span>VillageCity Coaching</span>
   </a>
 
 </div>
