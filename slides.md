@@ -84,7 +84,7 @@ left: false
 
 * [**Hosting Build-in-Public Calls or Meetups (in-person)**](https://www.youtube.com/@breakpointslive), offering you sponsorship opportunities,
   - Sponsor [$299 for ONE event's branding](https://buy.stripe.com/fZufZhghDdrvbgA7zFaIM01)
-  - Sponsor [$29 for ONE time builder referral](https://buy.stripe.com/fZu3cv1mJ0EJ5WgcTZaIM02)
+  - Sponsor [$199 for ONE time builder referral](https://buy.stripe.com/fZu3cv1mJ0EJ5WgcTZaIM02)
 * **Running maker events / makerthons**
   - such as our own [**Agentic Maker series**](https://breakpoints.live/agentic)
 * **Fractional CXO** on Your Web3 x AI projects,
