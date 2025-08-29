@@ -1,7 +1,7 @@
 ---
 theme: light-icons
 background: https://source.unsplash.com/collection/94734566/1920x1080
-title: 'Breakpoints.live Service | Accelerator for AI and Web3 startups'
+title: 'Breakpoints.live Service Brochure'
 info: |
   ## Breakpoints.live Service
   Accelerator for AI and Web3 startups. We connect, inspire and build.
@@ -89,7 +89,7 @@ left: false
   - such as our own [**Agentic Maker series**](https://breakpoints.live/agentic)
 * **Fractional CXO** on Your Web3 x AI projects,
   - _Fractional CEO_, _Product Lead_, or _CTO_
-  - We start with consulting contract, then we our awesome projects.
+  - We start with simple consulting to build your awesome projects together.
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 15px;">
   <a href="https://calendly.com/bookachance" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
