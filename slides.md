@@ -82,14 +82,15 @@ left: false
 
 # Breakpoints.live Service
 
-* [**Hosting Build-in-Public Calls or Meetups (in-person)**](https://www.youtube.com/@breakpointslive), offering you sponsorship opportunities,
-  - Sponsor [$299 for ONE event's branding](https://buy.stripe.com/fZufZhghDdrvbgA7zFaIM01)
-  - Sponsor [$199 for ONE time builder referral](https://buy.stripe.com/fZu3cv1mJ0EJ5WgcTZaIM02)
-* **Running maker events / makerthons**
-  - such as our own [**Agentic Maker series**](https://breakpoints.live/agentic)
-* **Fractional CXO** on Your Web3 x AI projects,
-  - _Fractional CEO_, _Product Lead_, or _CTO_
-  - We start with simple consulting to build your awesome projects together.
+* [**Build-in-Public Calls or Meetups**](https://www.youtube.com/@breakpointslive) sponsor opportunities,
+    - Sponsor [$299 for ONE event's theming/branding](https://buy.stripe.com/fZufZhghDdrvbgA7zFaIM01)
+    - Sponsor [$199 for ONE time builder referral](https://buy.stripe.com/fZu3cv1mJ0EJ5WgcTZaIM02)
+* **Running maker events (min ONE year contract)**, such as
+    - [Future Maker Hub](https://fmhub.us), _Vibe building everything_
+    -  [Agentic Maker series](https://breakpoints.live/agentic), such as [Reviewing White Peace's DePIN Project Design, Agentic Maker series](https://www.youtube.com/watch?v=fsyH-goSpJU)
+* **Joining your projects** as _Fractional CXO_ (Web3 x AI projects only)
+    - _Fractional CEO_, _Product Lead_, or _CTO_
+    - We start with simple consulting to build your awesome projects together.
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 15px;">
   <a href="https://calendly.com/bookachance" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
