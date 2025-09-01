@@ -84,10 +84,10 @@ left: false
 
 * [**Build-in-Public Calls or Meetups**](https://www.youtube.com/@breakpointslive) sponsor opportunities,
     - Sponsor [$299 for ONE event's theming/branding](https://buy.stripe.com/fZufZhghDdrvbgA7zFaIM01)
-    - Sponsor [$199 for ONE time builder referral](https://buy.stripe.com/fZu3cv1mJ0EJ5WgcTZaIM02)
+    - Sponsor [$199 for ONE time builder referral](https://buy.stripe.com/fZuaEX9Tf1INbgAg6baIM03)
 * **Running maker events (min ONE year contract)**, such as
     - [Future Maker Hub](https://fmhub.us), _Vibe building everything_
-    -  [Agentic Maker series](https://breakpoints.live/agentic), such as [Reviewing White Peace's DePIN Project Design, Agentic Maker series](https://www.youtube.com/watch?v=fsyH-goSpJU)
+    -  [Agentic Maker series](https://breakpoints.live/agentic), such as [_Reviewing White Peace's DePIN Project Design, Agentic Maker series_](https://www.youtube.com/watch?v=fsyH-goSpJU)
 * **Joining your projects** as _Fractional CXO_ (Web3 x AI projects only)
     - _Fractional CEO_, _Product Lead_, or _CTO_
     - We start with simple consulting to build your awesome projects together.
