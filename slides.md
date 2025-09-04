@@ -71,41 +71,12 @@ left: true
 * Prepare family offices and investors to invest in Web3 unicorns.
 
 ---
-title: 'Breakpoints.live Service'
-info: 'All-in-One Builders Community Services'
-image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
-layout: dynamic-image
-equal: false
-left: false
----
-<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
-
-# Breakpoints.live Service
-
-* [**Build-in-Public Calls or Meetups**](https://www.youtube.com/@breakpointslive) sponsor opportunities,
-    - Sponsor [$299 for ONE event's theming/branding](https://buy.stripe.com/fZufZhghDdrvbgA7zFaIM01)
-    - Sponsor [$199 for ONE time builder referral](https://buy.stripe.com/fZuaEX9Tf1INbgAg6baIM03)
-* **Running maker events (min ONE year contract)**, such as
-    - [Future Maker Hub](https://fmhub.us), _Vibe building everything_
-    -  [Agentic Maker series](https://breakpoints.live/agentic), such as [_Reviewing White Peace's DePIN Project Design, Agentic Maker series_](https://www.youtube.com/watch?v=fsyH-goSpJU)
-* **Joining your projects** as _Fractional CXO_ (Web3 x AI projects only)
-    - _Fractional CEO_, _Product Lead_, or _CTO_
-    - We start with simple consulting to build your awesome projects together.
-
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 15px;">
-  <a href="https://calendly.com/bookachance" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
-    <light-icon icon="calendar" size="24px" />
-    <span>Book a call with us</span>
-  </a>
-</div>
-
----
 title: 'Breakpoints.live Partners'
-info: 'Extensive Partners Network'
+info: 'Breakpoint.live's Extensive Partners Network'
 image: https://assets.breakpoints.live/deck/jon-moore-_2MyZDsUSM4-unsplash.jpg
 layout: dynamic-image
 equal: false
-left: true
+left: false
 ---
 <img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; right: 55px;">
 
@@ -155,6 +126,87 @@ left: true
 </div>
 
 ---
+title: 'Breakpoints.live Service'
+image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: true
+---
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+
+# Breakpoints Service
+
+* [**Build-in-Public Calls or Meetups**](https://www.youtube.com/@breakpointslive) sponsor opportunities,
+    - Sponsor [$299 for ONE event's theming/branding](https://buy.stripe.com/fZufZhghDdrvbgA7zFaIM01)
+    - Sponsor [$199 for ONE time builder referral](https://buy.stripe.com/fZuaEX9Tf1INbgAg6baIM03)
+* **Running maker events (at least ONE year contract)**, such as
+    - [Future Maker Hub](https://fmhub.us), _Vibe building everything_
+    -  [Agentic Maker series](https://breakpoints.live/agentic), such as [_Reviewing White Peace's DePIN Project Design, Agentic Maker series_](https://www.youtube.com/watch?v=fsyH-goSpJU)
+* **Joining your projects** as _Fractional CXO_ (Web3 x AI projects only)
+    - _Fractional CEO_, _Product Lead_, or _CTO_
+    - We start with simple consulting to build your awesome projects together.
+
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 15px;">
+  <a href="https://calendly.com/bookachance" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+    <light-icon icon="calendar" size="24px" />
+    <span>Book a call with us</span>
+  </a>
+</div>
+
+---
+title: 'Breakpoints Build-in-Public Calls'
+image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: false
+---
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+
+# Why Build-in-Public Calls
+
+* **Foster Trust & Transparency:** By openly sharing progress, challenges, and decisions, teams can build a transparent relationship with their community, which is essential for a decentralized and trust-based ecosystem.
+
+* **Accelerate Feedback & Innovation:** Direct engagement with builders and stakeholders provides real-time feedback, allowing teams to iterate faster and build products that truly meet the community's needs.
+
+* **Grow a Dedicated Community:** Sharing the journey from a nascent idea to a full-fledged protocol attracts like-minded individuals, turning passive observers into active contributors and advocates.
+
+
+---
+title: 'Breakpoints Agentic Makerthon'
+image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: false
+---
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+
+# Why Running Makerthon
+
+* **Ignite Innovation**: Rapid-fire collaboration in a focused setting sparks creative solutions and fast-tracks the development of new features or entirely new projects.
+
+* **Source Talent**: These events act as a dynamic hiring pipeline, allowing teams to directly assess the skills and dedication of potential builders and contributors.
+
+* **Validate Ideas**: Teams can quickly test and get feedback on new concepts from a diverse group of builders, which helps them refine their product and market fit.
+
+
+---
+title: 'Breakpoints Project Vesting'
+image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
+layout: dynamic-image
+equal: false
+left: false
+---
+<img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
+
+# Why Staged Project Vesting
+
+* **De-risk Initial Engagement**: Starting with a consulting role allows founders to gauge project viability and organizational alignment without a significant time or capital commitment.
+
+* **Scale Contribution and Ownership**: Transitioning to a token-holding or vested role provides a clear path to ownership and incentivizes long-term commitment, tying their success directly to the project's growth.
+
+* **Diversify Their Personal Portfolio**: By engaging with multiple projects at different stages, founders can spread their expertise and mitigate the risk of a single project's failure while maximizing their potential for high returns.
+
+---
 title: 'Contact Us'
 info: 'Get in touch to learn more.'
 image: https://assets.breakpoints.live/deck/mikaela-wiedenhoff-AwmCuTXL97Q-unsplash.jpg
@@ -166,23 +218,30 @@ left: false
 
 # Get in Touch
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
   <a href="mailto:chance@breakpoints.live" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
-      <light-icon icon="mail" size="24px" />
-    <span>Email us for service enquiry</span>
+      <light-icon icon="mail-opened" size="24px" />
+    <span>Email for enquiry</span>
   </a>
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 15px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+  <a href="https://www.linkedin.com/company/breakpointslive" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
+      <light-icon icon="brand-linkedin" size="24px" />
+    <span>Connect us via LinkedIn</span>
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
   <a href="https://x.com/breakpointslive" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
       <light-icon icon="brand-twitter" size="24px" />
-    <span>Follow us on X.com</span>
+    <span>Join our X.com conversation</span>
   </a>
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 15px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
   <a href="https://youtube.com/@breakpointslive" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit;">
       <light-icon icon="brand-youtube" size="24px" />
-    <span>Subscribe to our YouTube Channel</span>
+    <span>Watch our videos at  YouTube</span>
   </a>
 </div>
