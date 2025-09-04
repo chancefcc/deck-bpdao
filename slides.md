@@ -155,7 +155,7 @@ left: true
 
 ---
 title: 'Breakpoints Build-in-Public Calls'
-image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
+image: https://assets.breakpoints.live/deck/chris-montgomery-smgTvepind4-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: false
@@ -173,10 +173,10 @@ left: false
 
 ---
 title: 'Breakpoints Agentic Makerthon'
-image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
+image: https://assets.breakpoints.live/deck/paul-hanaoka-6FqkGMOLskY-unsplash.jpg
 layout: dynamic-image
 equal: false
-left: false
+left: true
 ---
 <img border="rounded" src="https://assets.breakpoints.live/deck/bpdao-logo.png" alt="logo" width="60" style="position: absolute; bottom: 30px; left: 55px;">
 
@@ -191,7 +191,7 @@ left: false
 
 ---
 title: 'Breakpoints Project Vesting'
-image: https://assets.breakpoints.live/deck/miguel-alcantara-ehX9vxM7fSk-unsplash.jpg
+image: https://assets.breakpoints.live/deck/austin-kehmeier-lyiKExA4zQA-unsplash.jpg
 layout: dynamic-image
 equal: false
 left: false
